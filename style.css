@@ -1,0 +1,38 @@
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.nauseau {
+    width:1280px;
+    height:auto;
+}
+
+.existential {
+    width:1280pxpx;
+    height:auto;
+}
+
+.ideas {
+    width:1280px;
+    height:auto;
+}
+
+.caffeine {
+    width:1280px;
+    height:auto;
+}
+
+.anxiety {
+    width:1280px;
+    height:auto;
+}
+
+.war {
+    width:1280px;
+    height:auto;
+}
+    
+    
